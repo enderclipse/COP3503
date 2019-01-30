@@ -1,6 +1,4 @@
 #include "Cabinet.h"
-#include <iomanip>
-#include <ostream>
 
 //Destructor
 Cabinet::~Cabinet(){

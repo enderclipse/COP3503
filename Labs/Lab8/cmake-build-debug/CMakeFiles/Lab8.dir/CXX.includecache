@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/joshuahaddad/CLionProjects/Lab8/Color.cpp
+Color.h
+/Users/joshuahaddad/CLionProjects/Lab8/Color.h
+
+/Users/joshuahaddad/CLionProjects/Lab8/Color.h
+iostream
+-
+

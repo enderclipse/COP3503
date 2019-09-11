@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/joshuahaddad/CLionProjects/MineSweeper/Board.cpp
+Board.h
+/Users/joshuahaddad/CLionProjects/MineSweeper/Board.h
+
+/Users/joshuahaddad/CLionProjects/MineSweeper/Board.h
+fstream
+-
+vector
+-
+string
+-
+cstdlib
+-
+Tile.h
+/Users/joshuahaddad/CLionProjects/MineSweeper/Tile.h
+
+/Users/joshuahaddad/CLionProjects/MineSweeper/Tile.h
+iostream
+-
+

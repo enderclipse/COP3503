@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/joshuahaddad/CLionProjects/EvoSim/Creature.h
+iostream
+-
+vector
+-
+map
+-
+cmath
+-
+
+/Users/joshuahaddad/CLionProjects/EvoSim/SimulationDriver.cpp
+SimulationDriver.h
+/Users/joshuahaddad/CLionProjects/EvoSim/SimulationDriver.h
+
+/Users/joshuahaddad/CLionProjects/EvoSim/SimulationDriver.h
+Creature.h
+/Users/joshuahaddad/CLionProjects/EvoSim/Creature.h
+World.h
+/Users/joshuahaddad/CLionProjects/EvoSim/World.h
+
+/Users/joshuahaddad/CLionProjects/EvoSim/World.h
+iostream
+-
+map
+-
+
+/Users/joshuahaddad/CLionProjects/EvoSim/main.cpp
+iostream
+-
+SimulationDriver.h
+/Users/joshuahaddad/CLionProjects/EvoSim/SimulationDriver.h
+
